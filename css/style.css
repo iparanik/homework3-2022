@@ -109,7 +109,7 @@ nav a:focus{
 /* Requirements 6-10 here: */
 .intro{
   background-image: url('../images/header.jpg');
-  background-color: #DDDDDD;
+  background-color: #707070;
   min-height: 400px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
